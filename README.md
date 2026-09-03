@@ -12,9 +12,9 @@ GLAZ Markets (product name: MarketSignal) aggregated 100+ real-time financial da
 I designed, built, and ran the entire system solo: architecture, backend, data pipeline, and infrastructure. Recruited beta users to validate the product. Ran it at my own expense for several months, then made the call to conclude the project after determining it didn't have a path to sustainable unit economics as a solo venture.
 
 ## Screenshots
+<img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/9be9fe0a-deaf-4b1d-af16-671f6bc3b926" />
 <img width="2048" height="1087" alt="image" src="https://github.com/user-attachments/assets/49232302-3d4a-4e76-af08-d7f6d5958d5a" />
 <img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/b4135bdc-a596-44e6-ab36-23e60a982315" />
-<img width="471" height="1024" alt="image" src="https://github.com/user-attachments/assets/19540f15-482b-4a99-9ea2-e420f4df819b" />
 <img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/a7acdd99-0d3a-4b02-a3b5-f21a080ac52d" />
 
 
