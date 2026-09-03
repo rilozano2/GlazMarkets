@@ -67,11 +67,18 @@ Beyond the real-time feed, GLAZ Markets included:
 > - Contract covers design, build, and operation of 2 GEO satellites hosting Heimdall space domain awareness payload
 > - Awarded by U.S. Space Force; contract value is $90 mln
 
-The pipeline read the full release, tagged the ticker, classified sentiment and category, extracted the two numbers that actually mattered (deal size, satellite count) out of six paragraphs of corporate background, and compressed it to two scannable bullets — all without a human in the loop.
+The pipeline read the full release, tagged the ticker, classified sentiment and category, extracted the two numbers that actually mattered (deal size, satellite count) out of six paragraphs of corporate background, and compressed it to two scannable bullets, all without a human in the loop.
+
 
 ## Stack
 
 TypeScript monorepo · Next.js 14 · React · Tailwind · Node.js · PostgreSQL · Prisma · Redis · BullMQ · Claude API (Sonnet for enrichment, Haiku as fallback) · deployed across Railway, Vercel, and Cloudflare
+
+~480 commits, 500+ production deployments, built and run hands-off over roughly 5 months.
+
+<img width="2870" height="1726" alt="image" src="https://github.com/user-attachments/assets/5314689d-d7c1-42f1-ba33-3b44c1199d3c" />
+
+*Development history, private repository: 479 commits, 500+ deployments, solo contributor, 99.4% TypeScript.*
 
 ~480 commits, 55 releases, built and run hands-off.
 
