@@ -82,6 +82,13 @@ TypeScript monorepo · Next.js 14 · React · Tailwind · Node.js · PostgreSQL 
 
 ~480 commits, 55 releases, built and run hands-off.
 
+
+## Lessons Learned
+The product kept improving with more data and a small but real paying user base, but the economics never closed. At the end, running it cost roughly $1,200/month (Claude API usage, Railway, Vercel), while 8 users converted to a $29/month subscription after their trial, about $232/month in revenue. Closing that gap solo, without outside funding, would have meant either a materially higher price point, a lower AI cost per item processed, or roughly five times the paying user base I'd built after several months running it myself. Rather than keep subsidizing usage indefinitely, I made the call to conclude the project.
+
+Running solo also meant catching infrastructure limits myself. I hit a Postgres storage ceiling from months of high-volume ingestion and added capacity monitoring after the fact, a gap a team's on-call rotation usually closes before you do.
+
+
 ## Status
 
 Concluded August 2026. Solo-founded, self-funded, and validated with beta users before winding down.
