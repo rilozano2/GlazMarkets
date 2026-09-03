@@ -59,7 +59,7 @@ Beyond the real-time feed, GLAZ Markets included:
 **Source (May 21, 2026, Rocket Lab press release, ~600 words):**
 > "Rocket Lab Corporation... today announced it has been awarded a $90 million contract by the U.S. Space Force's Space Systems Command (SSC) to design, manufacture, integrate, and operate two geostationary (GEO) satellites hosting the Heimdall space domain awareness (SDA) payload... Rocket Lab will serve as prime contractor and end-to-end mission provider, responsible for spacecraft design and manufacture, integration of the in-house Heimdall optical payload... [continues for 5 more paragraphs on the Lightning bus, GEOST acquisition history, and production facilities]"
 
-**Delivered on GLAZ Markets, 15 minutes later:**
+**Delivered on GLAZ Markets, seconds later:**
 
 > **RKLB** · BULLISH · PRODUCT
 > **Rocket Lab awarded $90 mln U.S. Space Force contract to build 2 GEO satellites hosting Heimdall space domain awareness payload**
