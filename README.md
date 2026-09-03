@@ -11,6 +11,15 @@ GLAZ Markets (product name: MarketSignal) aggregated 100+ real-time financial da
 
 I designed, built, and ran the entire system solo: architecture, backend, data pipeline, and infrastructure. Recruited beta users to validate the product. Ran it at my own expense for several months, then made the call to conclude the project after determining it didn't have a path to sustainable unit economics as a solo venture.
 
+## Product Surface
+
+Beyond the real-time feed, GLAZ Markets included:
+- **Auto-generated market summaries** — narrative after-hours/closing briefings synthesized from the day's feed activity, not just raw data
+- **Ticker profile pages** — company fundamentals, sector/HQ/employee data, price history, analyst consensus
+- **Fixed income desk** — live Treasury yield curve (3M–30Y) with day-over-day shape comparison, upcoming auction calendar
+- **Portfolios & hedge fund tracking** — 13F institutional holdings, custom watchlists
+- **Cross-asset dashboard** — equities, crypto (BTC and ETH), FX, and commodities in one live header
+
 ## Screenshots
 <img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/9be9fe0a-deaf-4b1d-af16-671f6bc3b926" />
 <img width="2048" height="1087" alt="image" src="https://github.com/user-attachments/assets/49232302-3d4a-4e76-af08-d7f6d5958d5a" />
@@ -27,9 +36,20 @@ I designed, built, and ran the entire system solo: architecture, backend, data p
 - **Cut AI processing cost significantly** with prompt caching and a template-render bypass for Form 4 filings — skipping unnecessary LLM enrichment calls with no loss in output quality
 - **Structured event taxonomy** — materiality filters surfaced analyst ratings (upgrades/downgrades, price targets), earnings, 13F institutional holdings, and macro releases (FOMC, CPI, GDP) as screenable, structured data
 
-## Example Coverage
+## Example: Raw Filing → Delivered Signal
 
-Caught and summarized USA Rare Earth (USAR)'s $1.6B U.S. Department of Commerce backing — $277M in federal funding plus $1.3B in CHIPS Act loan capacity — within seconds of it hitting.
+**Source (May 21, 2026, Rocket Lab press release, ~600 words):**
+> "Rocket Lab Corporation... today announced it has been awarded a $90 million contract by the U.S. Space Force's Space Systems Command (SSC) to design, manufacture, integrate, and operate two geostationary (GEO) satellites hosting the Heimdall space domain awareness (SDA) payload... Rocket Lab will serve as prime contractor and end-to-end mission provider, responsible for spacecraft design and manufacture, integration of the in-house Heimdall optical payload... [continues for 5 more paragraphs on the Lightning bus, GEOST acquisition history, and production facilities]"
+
+**Delivered on GLAZ Markets, 15 minutes later:**
+
+> **RKLB** · BULLISH · PRODUCT
+> **Rocket Lab awarded $90 mln U.S. Space Force contract to build 2 GEO satellites hosting Heimdall space domain awareness payload**
+> `satellites: 2` `contract_value: $90 mln`
+> - Contract covers design, build, and operation of 2 GEO satellites hosting Heimdall space domain awareness payload
+> - Awarded by U.S. Space Force; contract value is $90 mln
+
+The pipeline read the full release, tagged the ticker, classified sentiment and category, extracted the two numbers that actually mattered (deal size, satellite count) out of six paragraphs of corporate background, and compressed it to two scannable bullets — all without a human in the loop.
 
 ## Stack
 
