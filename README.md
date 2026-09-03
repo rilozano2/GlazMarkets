@@ -1,13 +1,13 @@
 # GlazMarkets
-Built and shipped a real-time financial intelligence platform solo — delivering market-moving events instantly vs. the up-to-10-minute lag on incumbents like Benzinga and Briefing.com.
+Built and shipped a real-time financial intelligence platform solo, delivering market-moving events in seconds versus the up-to-10-minute lag on incumbents like Benzinga and Briefing.com.
 
 ---
 
 ## Overview
 
-GLAZ Markets (product name: MarketSignal) aggregated 100+ real-time financial data sources — SEC filings, earnings releases, analyst ratings, institutional ownership, and macroeconomic events — and used an AI pipeline to classify, summarize, and prioritize them for delivery.
+GLAZ Markets (product name: MarketSignal) aggregated 100+ real-time financial data sources, including SEC filings, earnings releases, analyst ratings, institutional ownership, and macroeconomic events, and used an AI pipeline to classify, summarize, and prioritize them for delivery.
 
-I designed, built, and ran the entire system solo: architecture, backend, data pipeline, and infrastructure. Recruited beta users to validate the product. Ran it at my own expense for several months, then made the call to conclude the project after determining it didn't have a path to sustainable unit economics as a solo venture.
+I designed, built, and ran the entire system solo: architecture, backend, data pipeline, and infrastructure. I recruited beta users to validate the product, ran it at my own expense for several months, then made the call to conclude the project after determining it didn't have a path to sustainable unit economics as a solo venture.
 
 ## Product Surface
 
