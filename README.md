@@ -22,7 +22,6 @@ Beyond the real-time feed, GLAZ Markets included:
 <img width="2048" height="1087" alt="image" src="https://github.com/user-attachments/assets/9d741f6f-c4c8-4dfd-b49d-8bf1805cb915" />
 <img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/84923aec-b6b4-4dfe-8080-3f6252f4276c" />
 <img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/9be9fe0a-deaf-4b1d-af16-671f6bc3b926" />
-<img width="2048" height="1087" alt="image" src="https://github.com/user-attachments/assets/49232302-3d4a-4e76-af08-d7f6d5958d5a" />
 <img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/b4135bdc-a596-44e6-ab36-23e60a982315" />
 <img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/a7acdd99-0d3a-4b02-a3b5-f21a080ac52d" />
 
