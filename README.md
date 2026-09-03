@@ -19,13 +19,24 @@ Beyond the real-time feed, GLAZ Markets included:
 - **Cross-asset dashboard** — equities, crypto (BTC and ETH), FX, and commodities in one live header
 
 ## Screenshots
-<img width="2048" height="1087" alt="image" src="https://github.com/user-attachments/assets/9d741f6f-c4c8-4dfd-b49d-8bf1805cb915" />
-<img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/84923aec-b6b4-4dfe-8080-3f6252f4276c" />
-<img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/9be9fe0a-deaf-4b1d-af16-671f6bc3b926" />
-<img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/b4135bdc-a596-44e6-ab36-23e60a982315" />
-<img width="471" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e424db4-1136-43a0-baa8-d617c1dec2c1" />
-<img width="471" height="1024" alt="image" src="https://github.com/user-attachments/assets/4cbb5952-3591-4dff-bf7f-1d5c82e9f3c6" />
 
+<img width="2048" height="1087" alt="image" src="https://github.com/user-attachments/assets/9d741f6f-c4c8-4dfd-b49d-8bf1805cb915" />
+*Desktop — real-time feed with sentiment tagging, structured metrics, and portfolio alerts.*
+
+<img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/84923aec-b6b4-4dfe-8080-3f6252f4276c" />
+*Desktop — auto-generated market summary with cross-asset overnight data.*
+
+<img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/9be9fe0a-deaf-4b1d-af16-671f6bc3b926" />
+*Mobile — the Rocket Lab item from the example below, as delivered in the live feed.*
+
+<img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/b4135bdc-a596-44e6-ab36-23e60a982315" />
+*Mobile — FINRA short interest rankings by ticker, updated semi-monthly.*
+
+<img width="471" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e424db4-1136-43a0-baa8-d617c1dec2c1" />
+*Mobile — company profile page with price history and fundamentals.*
+
+<img width="471" height="1024" alt="image" src="https://github.com/user-attachments/assets/4cbb5952-3591-4dff-bf7f-1d5c82e9f3c6" />
+*Mobile — live Treasury yield curve and auction calendar.*
 
 
 ## Technical Highlights
