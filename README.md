@@ -29,7 +29,7 @@ Beyond the real-time feed, GLAZ Markets included:
 
 
 <img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/9be9fe0a-deaf-4b1d-af16-671f6bc3b926" />
-    *Mobile — the Rocket Lab item from the example below, as delivered in the live feed.*
+*Mobile — the Rocket Lab item from the example below, as delivered in the live feed.*
 
 
 <img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/b4135bdc-a596-44e6-ab36-23e60a982315" />
