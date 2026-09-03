@@ -33,9 +33,8 @@ Beyond the real-time feed, GLAZ Markets included:
 *Mobile — FINRA short interest rankings by ticker, updated semi-monthly.*
 
 <img width="471" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e424db4-1136-43a0-baa8-d617c1dec2c1" />
-*Mobile — company profile page with price history and fundamentals.*
-
 <img width="471" height="1024" alt="image" src="https://github.com/user-attachments/assets/4cbb5952-3591-4dff-bf7f-1d5c82e9f3c6" />
+*Mobile — company profile page with price history and fundamentals.*
 *Mobile — live Treasury yield curve and auction calendar.*
 
 
