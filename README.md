@@ -1,5 +1,3 @@
-<img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/84923aec-b6b4-4dfe-8080-3f6252f4276c" />
-<img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/ad6874ea-5afb-4a3a-8284-063fa2feec22" />
 # GlazMarkets
 Built and shipped a real-time financial intelligence platform solo — delivering market-moving events instantly vs. the up-to-10-minute lag on incumbents like Benzinga and Briefing.com.
 
@@ -21,6 +19,8 @@ Beyond the real-time feed, GLAZ Markets included:
 - **Cross-asset dashboard** — equities, crypto (BTC and ETH), FX, and commodities in one live header
 
 ## Screenshots
+<img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/84923aec-b6b4-4dfe-8080-3f6252f4276c" />
+<img width="2048" height="1089" alt="image" src="https://github.com/user-attachments/assets/ad6874ea-5afb-4a3a-8284-063fa2feec22" />
 <img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/9be9fe0a-deaf-4b1d-af16-671f6bc3b926" />
 <img width="2048" height="1087" alt="image" src="https://github.com/user-attachments/assets/49232302-3d4a-4e76-af08-d7f6d5958d5a" />
 <img width="942" height="2046" alt="image" src="https://github.com/user-attachments/assets/b4135bdc-a596-44e6-ab36-23e60a982315" />
