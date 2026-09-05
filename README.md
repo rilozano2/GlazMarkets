@@ -1,6 +1,8 @@
 # GlazMarkets
 Built and shipped a real-time financial intelligence platform solo, delivering market-moving events in seconds versus the up-to-10-minute lag on incumbents like Benzinga and Briefing.com.
 
+[LinkedIn](https://rb.gy/qgy1on)
+
 ---
 
 ## Overview
@@ -79,8 +81,6 @@ TypeScript monorepo · Next.js 14 · React · Tailwind · Node.js · PostgreSQL 
 <img width="2870" height="1726" alt="image" src="https://github.com/user-attachments/assets/5314689d-d7c1-42f1-ba33-3b44c1199d3c" />
 
 *Development history, private repository: 479 commits, 500+ deployments, solo contributor, 99.4% TypeScript.*
-
-~480 commits, 55 releases, built and run hands-off.
 
 
 ## Lessons Learned
